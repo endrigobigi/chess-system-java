@@ -3,7 +3,6 @@ package chess.pieces;
 import boardgame.Board;
 import chess.ChessPiece;
 import chess.Color;
-import jdk.internal.reflect.ReflectionFactory.GetReflectionFactoryAction;
 
 public class King extends ChessPiece{
 
